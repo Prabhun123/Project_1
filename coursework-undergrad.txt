@@ -1,0 +1,63 @@
+B.Tech First Year Coursework:
+
+Engineering Mathematics I - Lakshminarayana - A
+Engineering Mathematics II - Ramakrishna - A
+Engineering Physics - Madhavi - B
+Engineering Chemistry - Ramadevi - B
+Engineeing Professional English - Shanthadevi - A
+Introduction to the C Programming - Pradeep - A
+Engineering Mechanics - Ushakranthi - A
+Engineering Graphics - Kartheek - A
+
+B.Tech Second Year Semester I Coursework:
+
+Engineering Mathematics III - Lakshminarayana - A
+Building Materials Planninng and Construction - Nagarajan - A
+Engineering Surveying I - Sridevi - A
+Solid Mechanics I - Surendrababu - B
+Fluid Mechanics - Satyanarayana - A
+Engineering Geology - Sanjeeavarao - B
+
+B.Tech Second Year Semester II coursework:
+
+Concrete Technology - Satyanarayana - B
+Environmental Studies - Sanjeevarao - B
+Engineering Surveying  II - Sridevi - A
+Solid Mechanics II - Surendrababu - A
+Hydraulics and Hydraulic Machines - Maruthi Krishna - A
+Elements of Electrical and Mechanical Engineering - Sumanth and Rangarao - A
+
+B.Tech Third Year Semester I Coursework:
+
+Environmental Engineerig I - Maruthi Krishna - A
+Structural Engineering I - Ushakranthi - A
+Water Resources Engineering I - Maruthi Krishna - A
+Design of Concrete Structures I - Surendrababu - A
+Design of Steel Structures I - Sai ram - B
+Geotechnical Engineering I - Ramarao - A
+
+B.Tech Third Year Semester II Coursework:
+
+Professional Ethics and Human Values - Nagarajan - B
+Structural Engineering II - Ushakranthi - B
+Water Resources Engineerinng II - Maruthi Krishna - A
+Design of Concrete Structures II - Surendrababu - A
+Design of Steel Structures II - Sai Ram - B
+Geotechnical Engineering II - Ramarao - A
+Environmental Engineering II - Sanjeevarao - A
+
+B.Tech Final Year Semester I Coursework:
+
+Transportation Engineering I - Samatha Chowdary - A
+Structural Engineering III - Ushakranthi - A
+Water Resources Engineering III - Sairam - A
+Construction Estimation and Costing - Sreekanth - A
+Earthquake Resistant Design of Structures - Sai Ram - A
+Prestressed Design of Structures - Krishnasai - A
+
+B.Tech Final Year Semester II Coursework:
+
+Transportation Engineering II - Samatha Chowdary - A
+Construction Management - Sairam - A
+Bridge Engineering - Krishnasai - B
+Advanced Environmental Engineering - A
